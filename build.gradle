@@ -1,0 +1,14 @@
+plugins {
+    id 'java'
+}
+
+group 'com.anhduyqh123'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation 'com.badlogicgames.gdx:gdx:1.9.12'
+}
